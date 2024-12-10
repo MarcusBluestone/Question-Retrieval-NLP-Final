@@ -1,4 +1,5 @@
 # NLP Question Retrieval
+[`overview.pdf`](overview.pdf) contains the final version of our paper
 
 Our code was created to be run in Google Colab. “balanced_df.csv” is the General dataset. “tech_data.csv” is the Technology dataset.
 
